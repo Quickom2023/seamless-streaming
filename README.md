@@ -21,7 +21,7 @@ sudo systemctl restart docker
 ## Installation
 1. Clone the repository:
 ``` sh
-git clone https://github.com/tyanfarm/seamless-streaming
+git clone https://github.com/Quickom2023/seamless-streaming
 ```
 
 2. Open folder: 
